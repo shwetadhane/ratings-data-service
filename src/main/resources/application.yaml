@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: RATINGS-DATA-SERVICE
+
+
+server:
+  port: 8088
